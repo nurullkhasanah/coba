@@ -31,7 +31,7 @@ st.markdown(
     
     Check out the dataset in [Kaggle](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data)
 
-      👈 Select **Exploratory Data Analysis** from the sidebar** to see the visualization of dataset.
+      👈 Select **Exploratory Data Analysis** from the sidebar to see the visualization of dataset.
     
     ### Predictive Modelling
     Here is a comparison of the 3 models
