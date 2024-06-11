@@ -22,7 +22,7 @@ st.markdown(
 
     According to IDF data, in 2021, Indonesia is in the fifth position with 19.5 million diabetes cases and estimated will increase to 28.6 million in 2045. 
     
-    Based on above condition, it is very important to develop predictive model which could help to facilitate early diagnosis of diagnosis 
+    Based on above condition, it is very important to develop predictive model which could help to facilitate early diagnosis of diabetes 
   
 
     ### Dataset Source
