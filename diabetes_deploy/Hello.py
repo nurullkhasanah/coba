@@ -37,7 +37,7 @@ st.markdown(
     Here is a comparison of the 3 models
 """
 )
-image_path = "f1_score.png"
+image_path = "diabetes_deploy/f1_score.png"
 st.image(image_path, caption="Model Evaluation")
 st.markdown(
     """
