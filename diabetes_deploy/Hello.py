@@ -10,7 +10,7 @@ st.markdown(
     """
     I would like to share my final project about **Diabetes Prediction**
 
-    You can find my notebook [here](https://colab.research.google.com/drive/1Prrn4-UkuLen2kY2MZZzLBLSfk-noOzc?usp=drive_link)
+    You can find my notebook [here](https://github.com/nurullkhasanah/diabetes_prediction)
 
     ### **What is Diabetes?**
 
